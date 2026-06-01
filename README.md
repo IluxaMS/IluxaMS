@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Привет! Я Frontend-разработчик
 
-<!--
-**IluxaMS/IluxaMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю современные, быстрые и удобные веб-приложения с фокусом на пользовательский опыт.
 
-Here are some ideas to get you started:
+## 💻 Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+- React • TypeScript • JavaScript (ES6+)
+- HTML5 • CSS3
+
+**Backend & Tools:**
+- Node.js • Git
+- Vite • Webpack
+
+## ✨ Что я делаю
+
+• 🎨 Разрабатываю адаптивные и кроссбраузерные интерфейсы  
+• ⚡ Оптимизирую производительность приложений  
+• 🧹 Пишу чистый, масштабируемый и тестируемый код  
+• 🔄 Постоянно изучаю новые технологии
+
+## 🚀 Текущий статус
+
+✅ Открыт для предложений  
+ Готов к удалённой работе и релокации  
+
+## 📫 Контакты
+
+• **Telegram:** [@GesTrop](https://t.me/GesTrop)  
+• **Email:** [ilya.kkaazarin@gmail.com](mailto:ilya.kkaazarin@gmail.com)  
+
+---
+
+*💡 Люблю превращать идеи в работающие продукты*
