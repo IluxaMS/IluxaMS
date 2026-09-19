@@ -105,3 +105,16 @@
 <p align="center">
   <i>Спасибо за визит! Не забудьте поставить ⭐ моим репозиториям 😊</i>
 </p>
+
+
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes move {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(20px); }
+      100% { transform: translateX(0); }
+    }
+    .icon { animation: move 2s infinite; }
+  </style>
+  <text class="icon" x="50" y="50">🚀</text>
+</svg>
