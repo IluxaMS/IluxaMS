@@ -84,42 +84,42 @@
 ### ✅ Что ПОДДЕРЖИВАЕТСЯ:
 
 #### 1. **Базовый Markdown**
-```markdown
+
 # Заголовки
 **Жирный текст**
 *Курсив*
 - Списки
 [Ссылки](url)
-```
+
 
 #### 2. **HTML элементы** (ограниченно)
-```html
+
 <table>...</table>
 <div align="center">...</div>
 <img src="..." />
 <br>
 <hr>
-```
+
 
 #### 3. **Изображения и GIF**
-```markdown
+
 ![Описание](https://example.com/image.gif)
-```
+
 
 #### 4. **SVG анимации**
-```html
+
 <svg width="100" height="100">
   <circle cx="50" cy="50" r="40">
     <animate attributeName="r" values="40;50;40" dur="2s" repeatCount="indefinite"/>
   </circle>
 </svg>
-```
+
 
 #### 5. **Динамические бейджи (Shields.io)**
-```markdown
+
 ![Статус](https://img.shields.io/badge/Status-Active-brightgreen)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GesTrop)
-```
+
 
 #### 6. **GitHub Actions для динамического контента**
 Можно настроить автоматическое обновление:
@@ -146,14 +146,14 @@
 ## 🚀 Продвинутые фишки для Profile README
 
 ### 1. **GitHub Stats Card**
-```markdown
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GesTrop&show_icons=true&theme=radical)
-```
+
 
 ### 2. **Top Languages**
-```markdown
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GesTrop&layout=compact)
-```
+
 
 ### 3. **Streak Stats**
 ```markdown
@@ -161,15 +161,15 @@
 ```
 
 ### 4. **Visitor Counter**
-```markdown
+
 ![Visitors](https://komarev.com/visits.php?username=GesTrop)
-```
+
 
 ### 5. **Анимированные GIF/SVG**
-```markdown
+
 <!-- Анимированный разделитель -->
 ![Divider](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header)
-```
+
 
 ### 6. **Dynamic Badges с GitHub Actions**
 Можно создать workflow, который обновляет бейджи:
@@ -181,7 +181,7 @@
 
 ## 📋 Пример структуры Profile README
 
-```markdown
+
 # 👋 Привет, я [Имя]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Vue.js+Enthusiast;Clean+Code+Advocate)](https://git.io/typing-svg)
@@ -198,7 +198,7 @@
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-@GesTrop-0088cc?style=for-the-badge&logo=telegram)](https://t.me/GesTrop)
-```
+
 
 ---
 
