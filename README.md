@@ -13,14 +13,11 @@
 ## 💻 Технологии
 
 ### Frontend
-| Технология | Уровень | Иконка |
+| Vue.js | TypeScript | JavaScript | HTML5 | CSS3 | React |
 |------------|---------|--------|
-| Vue.js | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="25"/> |
-| TypeScript | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> |
-| JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> |
-| HTML5 | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> |
-| CSS3 | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/> |
-| React | ⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/> |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/> |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/> |
 
 ### Backend & Tools
 | Технология | Описание | Иконка |
