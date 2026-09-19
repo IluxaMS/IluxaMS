@@ -13,7 +13,8 @@
 ## 💻 Технологии
 
 ### Frontend
-
+| Технология | Уровень | Иконка |
+|------------|---------|--------|
 | Vue.js | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="25"/> |
 | TypeScript | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> |
 | JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> |
@@ -22,13 +23,15 @@
 | React | ⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/> |
 
 ### Backend & Tools
-| Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25"/> |
-| Git | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> |
-| Vite | 🚀 |
-| Webpack | 📦 |
-| PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"/> |
-| Postman | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> |
-| Linux | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> |
+| Технология | Описание | Иконка |
+|------------|----------|--------|
+| Node.js | Серверная разработка | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25"/> |
+| Git | Контроль версий | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> |
+| Vite | Современный сборщик | 🚀 |
+| Webpack | Сборка проектов | 📦 |
+| PostgreSQL | Работа с БД | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"/> |
+| Postman | API тестирование | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> |
+| Linux | ОС для разработки | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> |
 
 ---
 
