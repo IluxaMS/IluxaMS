@@ -13,22 +13,31 @@
 ## 💻 Технологии
 
 ### Frontend
-| Vue.js | TypeScript | JavaScript | HTML5 | CSS3 | React |
-|------------|---------|--------|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/> |
-|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/> |
+
+<table>
+<tr align="center">
+<td><b>Vue.js</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></td>
+<td><b>TypeScript</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td>
+<td><b>JavaScript</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+<td><b>HTML5</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+<td><b>CSS3</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
+<td><b>React</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
+</tr>
+</table>
 
 ### Backend & Tools
-| Технология | Описание | Иконка |
-|------------|----------|--------|
-| Node.js | Серверная разработка | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25"/> |
-| Git | Контроль версий | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> |
-| Vite | Современный сборщик | 🚀 |
-| Webpack | Сборка проектов | 📦 |
-| PostgreSQL | Работа с БД | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"/> |
-| Postman | API тестирование | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> |
-| Linux | ОС для разработки | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> |
+
+<table>
+<tr align="center">
+<td><b>Node.js</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
+<td><b>Git</b><br><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+<td><b>Vite</b><br>🚀</td>
+<td><b>Webpack</b><br>📦</td>
+<td><b>PostgreSQL</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
+<td><b>Postman</b><br><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
+<td><b>Linux</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
