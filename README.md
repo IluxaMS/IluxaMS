@@ -58,15 +58,7 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iluxams&show_icons=true&theme=radical&hide_border=true&title_color=4F8EF7&icon_color=4F8EF7" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluxams&layout=compact&theme=radical&hide_border=true&title_color=4F8EF7" alt="Top Languages"/>
-</p>
+## 📊 Статистика
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iluxams&theme=radical&hide_border=true&stroke=4F8EF7" alt="Streak Stats"/>
