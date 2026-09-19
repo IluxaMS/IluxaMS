@@ -156,9 +156,9 @@
 
 
 ### 3. **Streak Stats**
-```markdown
+
 ![Streak](https://streak-stats.demolab.com?user=GesTrop)
-```
+
 
 ### 4. **Visitor Counter**
 
