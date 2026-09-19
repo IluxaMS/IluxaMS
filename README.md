@@ -1,19 +1,118 @@
-<h1 align="center">👋 Привет! Я Frontend-разработчик Илья</h1>
-<h3 align="center">Создаю современные, быстрые и удобные веб-приложения с фокусом на пользовательский опыт.</h3>
+<h1 align="center">👋 Привет! Я Frontend-разработчик</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iluxams&label=Profile%20views&color=0e75b6&style=flat" alt="iluxams" /> </p>
-
-- 📫 How to reach me **ilya.kkaazarin@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&height=50&lines=Создаю+современные+веб-приложения;Фокус+на+пользовательский+опыт;Vue.js+%26+TypeScript+Developer;Чистый+и+масштабируемый+код" alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iluxams&label=Просмотры+профиля&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iluxams&show_icons=true&locale=en&layout=compact" alt="iluxams" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iluxams&show_icons=true&locale=en" alt="iluxams" /></p>
+## 💻 Технологии
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iluxams&" alt="iluxams" /></p>
+### Frontend
+| Технология | Уровень | Иконка |
+|------------|---------|--------|
+| Vue.js | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="25"/> |
+| TypeScript | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25"/> |
+| JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> |
+| HTML5 | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25"/> |
+| CSS3 | ⭐⭐⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25"/> |
+| React | ⭐⭐⭐ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/> |
+
+### Backend & Tools
+| Технология | Описание | Иконка |
+|------------|----------|--------|
+| Node.js | Серверная разработка | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25"/> |
+| Git | Контроль версий | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/> |
+| Vite | Современный сборщик | 🚀 |
+| Webpack | Сборка проектов | 📦 |
+| PostgreSQL | Работа с БД | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"/> |
+| Postman | API тестирование | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25"/> |
+| Linux | ОС для разработки | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> |
+
+---
+
+## ✨ Что я делаю
+
+<table>
+<tr>
+<td align="center" width="25%">
+🎨<br><b>UI/UX Design</b><br>Адаптивные интерфейсы
+</td>
+<td align="center" width="25%">
+⚡<br><b>Performance</b><br>Оптимизация скорости
+</td>
+<td align="center" width="25%">
+🧹<br><b>Clean Code</b><br>Масштабируемость
+</td>
+<td align="center" width="25%">
+🔄<br><b>Continuous Learning</b><br>Новые технологии
+</td>
+</tr>
+</table>
+
+• 🎯 Разрабатываю адаптивные и кроссбраузерные интерфейсы  
+• ⚡ Оптимизирую производительность приложений  
+• 🧹 Пишу чистый, масштабируемый и тестируемый код  
+• 🔄 Постоянно изучаю новые технологии и best practices
+
+---
+
+## 📊 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iluxams&show_icons=true&theme=radical&hide_border=true&title_color=4F8EF7&icon_color=4F8EF7" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iluxams&layout=compact&theme=radical&hide_border=true&title_color=4F8EF7" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iluxams&theme=radical&hide_border=true&stroke=4F8EF7" alt="Streak Stats"/>
+</p>
+
+---
+
+## 🚀 Текущий статус
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-✅_Открыт_для_предложений-brightgreen?style=for-the-badge&logo=openai&logoColor=white" alt="Status Badge"/>
+</p>
+
+<p align="center">
+  <b>Готов к удалённой работе и релокации</b>
+</p>
+
+---
+
+## 📫 Контакты
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40GesTrop-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GesTrop)
+[![Email](https://img.shields.io/badge/Email-ilya.kkaazarin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya.kkaazarin@gmail.com)
+
+</div>
+
+<div align="center">
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iluxams)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&text=💡+Люблю+превращать+идеи+в+работающие+продукты&fontColor=ffffff&fontSize=20" alt="Footer Wave"/>
+</p>
+
+<p align="center">
+  <i>Спасибо за визит! Не забудьте поставить ⭐ моим репозиториям 😊</i>
+</p>
